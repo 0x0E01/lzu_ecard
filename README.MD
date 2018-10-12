@@ -1,5 +1,4 @@
-#### Realesed Under GPL License
-
+#### Releaserd under JCPL(Just Copy and Paste Licence)
 
 #### 运行需求:
 
